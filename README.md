@@ -1,8 +1,4 @@
-# tara
 # Introduction
-
-这个网页是基于晓冬学长写的基础上，改了部分内容以及增加了bgm...
-
 网页预览: http://htmlpreview.github.io/?https://github.com/Kianazjw/tara/blob/master/T-ara.html
 
 <img src="/images/1.jpg" width="800" height="574"/>
